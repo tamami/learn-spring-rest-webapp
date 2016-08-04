@@ -1,0 +1,4 @@
+lab/aikibo/controller/HelloWorldRestController.class
+lab/aikibo/domain/Message.class
+lab/aikibo/configuration/HelloWorldConfiguration.class
+lab/aikibo/configuration/HelloWorldInitializer.class
